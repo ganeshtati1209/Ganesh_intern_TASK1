@@ -25,7 +25,7 @@ This project fine-tunes **GPT-2**, an OpenAI transformer model, on a **custom da
 
 ### ✅ **1. Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/ganeshtati1209/Ganesh_intern_TASK1.git
 cd YOUR_REPO_NAME
 ```
 
