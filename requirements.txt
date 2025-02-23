@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+tokenizers
+numpy
+pandas
+tqdm
+python-dotenv
+indic-nlp-library
