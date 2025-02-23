@@ -1,4 +1,5 @@
 Intern_Ganesh_Task1
+
 📝 Fine-Tuning GPT-2 for Poetry-Style Text Generation
 This project fine-tunes GPT-2, an OpenAI transformer model, on a custom dataset (merve/poetry) to generate contextually relevant poetic responses based on a given prompt.
 
