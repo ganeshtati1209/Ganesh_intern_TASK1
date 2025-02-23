@@ -37,9 +37,9 @@ def tokenize_function(examples):
     tokenized_inputs = tokenizer(
         text,
         truncation=True,
-        padding="max_length",  # ✅ Fix: Set to fixed size
+        padding="max_length",
         max_length=256,
-        return_tensors="np"  # ✅ Fix: Convert to NumPy to avoid PyArrow issues
+        return_tensors="np"  
     )
 
 
